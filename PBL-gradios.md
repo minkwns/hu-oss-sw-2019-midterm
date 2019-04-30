@@ -1,3 +1,9 @@
+Idea for project
+============
+
+ * Add more weapon to kill enemies
+ * Set integrity and unity about Gradios
+
 My PBL contribution list
 ========================
 
